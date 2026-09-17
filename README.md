@@ -1,4 +1,4 @@
-# ⌨️ Python Keyboard Logger
+# ⌨️ Keyboard Logger
 
 A simple educational Python project for working with keyboard events using the [`pynput`](https://github.com/moses-palmer/pynput) library.
 
